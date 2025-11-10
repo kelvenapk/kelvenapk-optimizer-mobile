@@ -38,8 +38,6 @@ Tudo isso com uma interface **premium, responsiva e sem instalação**.
 
 ---
 
-## 📸 Preview
-![Kelven Mobile Optimizer Preview](https://via.placeholder.com/360x640/9333ea/ffffff?text=Kelven+Mobile+Preview)
 
 ---
 
