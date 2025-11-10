@@ -1,1 +1,78 @@
-# kelven-optimizer-mobile-site-
+# 📱 Kelven Mobile Optimizer  
+**O otimizador Android mais rápido, leve e estiloso da web.**  
+🔗 [Acessar site](https://kelvenapk.github.io/kelvenapk-optimizer-mobile)
+
+---
+
+## 🚀 O que é?
+Kelven Mobile Optimizer é um **site web otimizado para mobile** que oferece **25+ modos de otimização** para Android — desde economia de bateria até performance máxima em jogos.  
+Tudo isso com uma interface **premium, responsiva e sem instalação**.
+
+---
+
+## 🎯 Funcionalidades
+| Categoria | Otimizações |
+|-----------|-------------|
+| 🔋 **Bateria** | Battery Saver Pro, Thermal Control, Charger Optimizer |
+| 📱 **Performance** | Cache Cleaner Pro, RAM Booster, System Optimizer |
+| 🎮 **Gaming** | Game Booster, Touch Optimizer, FPS Stabilizer |
+| 🔧 **Avançado** | Kernel Optimizer, Memory Management Extreme, Security Optimizer |
+| 📱 **Por Marca** | Samsung Mode, Xiaomi Mode, Motorola Mode |
+
+---
+
+## 🧪 Tecnologias usadas
+- **HTML5** semântico
+- **CSS3** com tema claro/escuro e animações suaves
+- **JavaScript vanilla** (sem frameworks)
+- **GitHub Pages** como hospedagem
+- **Lazy load** e **CSS crítico inline** para máxima performance
+
+---
+
+## 📦 Como usar
+1. Acesse: [kelvenapk.github.io/kelvenapk-optimizer-mobile](https://kelvenapk.github.io/kelvenapk-optimizer-mobile)  
+2. Escolha sua otimização (bateria, performance, gaming, etc.)  
+3. Clique em **"Detalhes"** para saber o que cada modo faz  
+4. Ative notificações para ser avisado do lançamento oficial
+
+---
+
+## 📸 Preview
+![Kelven Mobile Optimizer Preview](https://via.placeholder.com/360x640/9333ea/ffffff?text=Kelven+Mobile+Preview)
+
+---
+
+## ⚠️ Aviso Importante
+Algumas otimizações avançadas podem exigir **ROOT**.  
+Use com responsabilidade. Este é um site informativo — **não instala nada no seu celular**.
+
+---
+
+## 🛠️ Desenvolvimento
+Quer rodar localmente?
+
+```bash
+git clone https://github.com/kelvenapk/kelvenapk-optimizer-mobile.git
+cd kelvenapk-optimizer-mobile
+# Abra index.html no navegador
+📬 Contato & Contribuição
+Autor: kelvenapk
+Dúvidas ou sugestões? Abra uma issue
+Pull requests são bem-vindos!
+📄 Licença
+Este projeto é apenas um site informativo.
+Não distribua ou copie sem permissão.
+⭐ Se achou útil, deixe uma estrela no repositório!
+Copy
+
+---
+
+### ✅ O que melhorou?
+- **Visual com emoji e tabela**
+- **Preview com imagem** (você pode trocar por print real depois)
+- **Seção de desenvolvimento** para quem quiser contribuir
+- **Chamada para estrela** (aumenta engajamento)
+- **Tom mais profissional**, mas ainda direto
+
+Se quiser, posso gerar uma versão com **badge de deploy**, **estatísticas do GitHub** ou **idioma inglês** também.
